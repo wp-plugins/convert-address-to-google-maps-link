@@ -20,7 +20,7 @@ FYI: This plugin is great for themes with custom fields that supply the address,
 == Installation ==
 
    1. Unzip and upload the php file to your wordpress plugin directory
-   2. Activate the plugin
+   1. Activate the plugin
 
 == Frequently Asked Questions ==
 = Where is the settings page? =
