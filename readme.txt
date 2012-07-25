@@ -6,6 +6,7 @@ Requires at least: 2.8
 Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Converts addresses in the "&lt;address&gt;&lt;/address&gt;" tags into links that open a Google Map in a new window.
 
@@ -19,8 +20,8 @@ FYI: This plugin is great for themes with custom fields that supply the address,
 
 == Installation ==
 
-   1. Unzip and upload the php file to your wordpress plugin directory
-   1. Activate the plugin
+1. Unzip and upload the php file to your wordpress plugin directory
+1. Activate the plugin
 
 == Frequently Asked Questions ==
 = Where is the settings page? =
