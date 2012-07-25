@@ -23,7 +23,8 @@ FYI: This plugin is great for themes with custom fields that supply the address,
    2. Activate the plugin
 
 == Frequently Asked Questions ==
-*	You need to put the address inside the &lt;address&gt;&lt;/address&gt; html tag for this plugin to work.
+*	**Where is the settings page?** Answer: There are no settings for this plugin.
+*	**This isn't working** Answer: Make sure you put the address inside the &lt;address&gt;&lt;/address&gt; html tag.  This is required.
 
 == Changelog ==
 
