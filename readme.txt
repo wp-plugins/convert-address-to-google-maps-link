@@ -15,7 +15,7 @@ This simple plugin converts addresses in "&lt;address&gt;&lt;/address&gt;" tags 
 
 NOTE: You need to put the address inside the &lt;address&gt;&lt;/address&gt; html tag for this plugin to work. For example, you would need to write the following into your code: &lt;address&gt;112 1/2 Beacon Street, Boston 02108&lt;/address&gt;
 
-FYI: This plugin is great for themes with custom fields that supply the address, but is probably not too useful for themes that don't.
+FYI: This plugin is great for themes with custom fields that supply the address, but is probably not too useful for themes that don't.  Thanks!
 
 == Installation ==
 
