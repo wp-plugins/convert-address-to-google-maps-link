@@ -7,13 +7,13 @@ Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Converts addresses in the "&lt;address&gt;&lt;/address&gt;" tags into links that open a Google Map in a new window.
+Converts addresses in the "[address][/address]" tags into links that open a Google Map in a new window.
 
 == Description ==
 
-This simple plugin converts addresses in "&lt;address&gt;&lt;/address&gt;" tags into links that open a Google Map in a new window.
+This simple plugin converts addresses in "[address][/address]" tags into links that open a Google Map in a new window.
 
-NOTE: You need to put the address inside the &lt;address&gt;&lt;/address&gt; html tag for this plugin to work. For example, you would need to write the following into your code: &lt;address&gt;112 1/2 Beacon Street, Boston 02108&lt;/address&gt;
+NOTE: You need to put the address inside the [address][/address] html tag for this plugin to work. For example, you would need to write the following into your code: [address]112 1/2 Beacon Street, Boston 02108[/address]
 
 FYI: This plugin is great for themes with custom fields that supply the address, but is probably not too useful for themes that don't.
 
@@ -23,7 +23,7 @@ FYI: This plugin is great for themes with custom fields that supply the address,
    2. Activate the plugin
 
 == Frequently Asked Questions ==
-*	You need to put the address inside the &lt;address&gt;&lt;/address&gt; html tag for this plugin to work.
+*	You need to put the address inside the [address][/address] html tag for this plugin to work.
 
 == Changelog ==
 
