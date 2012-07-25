@@ -5,6 +5,7 @@ Tags: address,google,maps,map,convert
 Requires at least: 2.8
 Tested up to: 3.4.1
 Stable tag: 1.0
+License: GPLv2 or later
 
 Converts addresses in the "&lt;address&gt;&lt;/address&gt;" tags into links that open a Google Map in a new window.
 
