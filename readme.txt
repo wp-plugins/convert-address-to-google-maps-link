@@ -17,6 +17,8 @@ NOTE: You need to put the address inside the `<address></address>` html tag for 
 
 FYI: This plugin is great for themes with custom fields that supply the address, but is probably not too useful for themes that don't.  Thanks!
 
+Finally, many many thanks to [Mike Jasper](http://www.mikedoesweb.com/) , who wrote the javascript that powers this plugin.  I merely repackaged his code.
+
 == Installation ==
 
 1. Unzip and upload the php file to your wordpress plugin directory
