@@ -3,7 +3,7 @@ Contributors: themightymo,llamaman
 Donate link: http://www.themightymo.com/donate
 Tags: address,google,maps,map,convert
 Requires at least: 2.8
-Tested up to: 3.4.1
+Tested up to: 3.8.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
